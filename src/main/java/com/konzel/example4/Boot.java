@@ -1,4 +1,4 @@
-package com.konzel.example3;
+package com.konzel.example4;
 
 import com.mitchellbosecke.pebble.PebbleEngine;
 import com.mitchellbosecke.pebble.template.PebbleTemplate;
